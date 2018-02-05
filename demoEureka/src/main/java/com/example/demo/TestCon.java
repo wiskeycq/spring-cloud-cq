@@ -32,6 +32,7 @@ public class TestCon {
         Teacher teacher=new Teacher();
         teacher.setName("李四");
         System.out.println(1111);
+        System.out.println("cqtest");
         return "sss";
     }
 }
